@@ -12,7 +12,16 @@ Unity Test Project Tutorial - First Game
 
 - [IDEA310O Project1 CreatorKitGame](#idea310o-project1-creatorkitgame)
 - [Table of Contents](#table-of-contents)
+- [Links \& Data](#links--data)
 - [Directions \& Reason](#directions--reason)
+
+
+
+# Links & Data
+**.zip File**: [Project 1 - Creator Kit Game Zipped Folder](https://1drv.ms/u/s!Aq-gjVeEMA4uoqFMgw-CzDLppienYQ?e=36zS5R)
+
+**Link to Video Demo**: [YouTube Video]()
+
 
 # Directions & Reason
 
