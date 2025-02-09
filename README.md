@@ -22,6 +22,8 @@ Unity Test Project Tutorial - First Game
 
 **Link to Video Demo**: [YouTube Video](https://youtu.be/Oyt4pv1Z4rI?si=MNjy3krJlHtC8WNO)
 
+**GitHub Link**: [IDEA310O-Project1-CreatorKitGame](https://github.com/DeathlySkitty/IDEA310O-Project1-CreatorKitGame.git)
+
 
 # Directions & Reason
 
