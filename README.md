@@ -20,7 +20,7 @@ Unity Test Project Tutorial - First Game
 # Links & Data
 **.zip File**: [Project 1 - Creator Kit Game Zipped Folder](https://1drv.ms/u/s!Aq-gjVeEMA4uoqFMgw-CzDLppienYQ?e=36zS5R)
 
-**Link to Video Demo**: [YouTube Video]()
+**Link to Video Demo**: [YouTube Video](https://youtu.be/Oyt4pv1Z4rI?si=MNjy3krJlHtC8WNO)
 
 
 # Directions & Reason
